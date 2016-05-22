@@ -1,0 +1,6 @@
+.python-version
+bin/
+include/
+lib/
+pip-selfcheck.json
+*.html
