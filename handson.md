@@ -59,7 +59,8 @@ print(res.content)  # ③
 
 WebページはHTMLという専門の言語を利用して記載されています．  
 `requests`モジュールを利用することで，対象のページのHTMLを取得しています．  
-取得したページを保存しておきましょう．
+
+PyLadies Tokyoのスタッフのページを取得して、保存しておきましょう．
 
 ```python
 import requests
