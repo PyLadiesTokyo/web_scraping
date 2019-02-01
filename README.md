@@ -8,7 +8,7 @@ PyLadies Tokyoハンズオン
 [Webスクレイピング入門 - PyLadies Tokyoハンズオン](./201902/handson.md)
 
 
-## PyLadies Tokyo Meetup #12 Webスクレイピングハンズオン
+## 2016-05-22 PyLadies Tokyo Meetup #12 Webスクレイピングハンズオン
 [PyLadies Tokyo Meetup #12](https://pyladies-tokyo.connpass.com/event/31683/) で実施
 
 [Webスクレイピング入門 - PyLadies Tokyoハンズオン](./201605/handson.md)
