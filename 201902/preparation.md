@@ -22,3 +22,15 @@ Pythonを実装して、実行できる環境を用意してください。
 
 ## Pythonの基本文法
 Pythonがはじめての方は、Pythonの基本的な書き方を予習してきてください。
+
+## 仮想環境
+スクレイピング用のライブラリをインストールします。
+環境を汚したくない方は、仮想環境を利用してください。
+
+[12. 仮想環境とパッケージ](https://docs.python.org/ja/3/tutorial/venv.html)
+
+```
+python3 -m venv env
+env\Scripts\activate.bat(Windows)
+source env/bin/activate(macOS, Linux)
+```
