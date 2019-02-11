@@ -7,7 +7,6 @@ soup = BeautifulSoup(html, 'html.parser')  # ③
 records = soup.find_all('div', class_="chapter_location")
 print('加盟数=', len(records))
 for record in records:
-    a_tags = record.find_all('a')
     # 先頭のaタグの情報を表示
     print(record.a.string.strip(), end='\t')
     if 'http' in record.a['href']:
