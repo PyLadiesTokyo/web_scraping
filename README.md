@@ -6,8 +6,8 @@ PyLadies Tokyoハンズオンの資料です。
 簡単な質問の場合は、PyLadies Tokyo のTwitterアカウント [@PyLadiesTokyo](https://twitter.com/PyLadiesTokyo) に聞いていただいても回答します。
 
 ## 2023-02-18 PyLadies Tokyo Meetup #78 Webスクレイピング入門
-PyLadies Tokyo Meetup #77 Webスクレイピング入門]() で実施
-- [PyLadies Tokyo Meetup #78 Webスクレイピング入門](https://pyladies-tokyo.connpass.com/event/274705/) で実施
+
+[PyLadies Tokyo Meetup #78 Webスクレイピング入門](https://pyladies-tokyo.connpass.com/event/274705/) で実施
 
 [Webスクレイピング心得](./202302/knowledge.md)
 
