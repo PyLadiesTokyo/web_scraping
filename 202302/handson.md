@@ -60,7 +60,7 @@ Webページの取得には，Pythonの `requests` というモジュールを�
 ```python
 import requests  # ①
 
-res = requests.get('https://pyladiestokyo.github.io/')  # ②
+res = requests.get('https://tokyo.pyladies.com/')  # ②
 print(res.content)  # ③
 ```
 
@@ -99,7 +99,7 @@ with open('pyladies-top.html', 'wb') as fout:
 ```python
 from bs4 import BeautifulSoup  # ①
 
-html = open('pyladies-top.html').read()  # ②
+html = open('pyladies-top.html', encoding='utf8').read()  # ②
 soup = BeautifulSoup(html, 'html.parser')  # ③
 ```
 
@@ -142,34 +142,30 @@ for record in records:
 ```
 
 欲しい情報を取得することができました！  
-`record`を`record.string`と書き換えることでタグの内容を除いたテキスト情報のみを取得出来ます。
+`record`を`record.text`と書き換えることでタグの内容を除いたテキスト情報のみを取得出来ます。
 `record[属性]` とすると、属性に指定された値を取得出来ます。
 `文字列: URL` となるように表示してみましょう。
 
 Python3.6以上
 ```python
-print(f'{record.string}: {record["href"]}')
+print(f'{record.text}: {record["href"]}')
 ```
 
-Python3.5以下
-```python
-print('{title}: {url}'.format(title=record.string, url=record["href"]))
-```
 
 取得した情報を保存したい場合には，例えば以下のように書き換えます。
 
 ```python
 records = soup.select('a')
-with open('pyladies-staff.csv', 'w') as fout:
+with open('pyladies-links.csv', 'w', encording='utf8') as fout:
     for record in records:
         if record.img:
             continue
-        fout.write(f'{record.string},{record["href"]}\n')
+        fout.write(f'{record.text},{record["href"]}\n')
 ```
 
 ## 課題
 
-[PyLadies Locations](https://www.pyladies.com/locations/)のページを取得して、加盟PyLadiesの都市名、URL、TwitterIDを表示してみましょう。
+[PyLadies Locations](https://www.pyladies.com/locations/)のページを取得して、加盟PyLadiesの都市名、メールアドレスを表示してみましょう。
 
 特定のclassを持つタグを取得する場合は、以下のようにします。
 

@@ -1,25 +1,14 @@
-from bs4 import BeautifulSoup  # ①
+from bs4 import BeautifulSoup
 
-html = open('pyladies-top.html').read()  # ②
-soup = BeautifulSoup(html, 'html.parser')  # ③
-records = soup.find_all('a')
+html = open("pyladies-top.html", encoding="utf8").read()
+soup = BeautifulSoup(html, "html.parser")
 
-# for record in records:
-#     print(record)
-
-# for record in records:
-#     if record.img:
-#         continue
-#     print(record)
-
-# for record in records:
-#     if record.img:
-#         continue
-#     #print(f'{record.string}: {record["href"]}')
-#     print('{title}: {url}'.format(title=record.string, url=record["href"]))
-
-with open('pyladies-staff.csv', 'w') as fout:
+records = soup.find_all("a")
+with open('pyladies-links.csv', 'w', encoding='utf8') as fout:
     for record in records:
         if record.img:
             continue
-        fout.write(f'{record.string},{record["href"]}\n')
+
+        fout.write(f'{record.text}: {record["href"]}\n')
+
+

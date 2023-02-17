@@ -1,7 +1,7 @@
 import requests  # ①
 
-res = requests.get('https://pyladiestokyo.github.io/')  # ②
-print(res.content)  # ③
+res = requests.get('https://tokyo.pyladies.com/')  # ②
+print(res.content)
 
 with open('pyladies-top.html', 'wb') as fout:
     fout.write(res.content)
