@@ -30,10 +30,8 @@ Webスクレイピングは大変便利な技術ですが、スクレイピン�
 
 ## robots.txtとは
 
-https://marketingnative.jp/how-to-write-robotstxt-file/
-
-- robots.txtは、クローラーによる巡回や、検索エンジンに対してURLのアクセス可否を記載しています。
-- robosS.txt の例
+- robots.txtは、クローラーや、検索エンジンに対してURLのアクセス可否を記載したものです。
+- robots.txt の例
 
   ```
   User-Agent:*
@@ -45,8 +43,13 @@ https://marketingnative.jp/how-to-write-robotstxt-file/
   - 「User-agent」で指定したクローラーについて、「Disallow」「Allow」でルールが設定されています。
     - たとえば、Googlebotと指定した場合、GoogleのWebクロールを制御することになります。「*」はすべてのクローラー、の意味になります。
 
-    - https://developer.mozilla.org/ja/docs/Web/HTTP/Headers/User-Agent
-    - Pythonの requests などでも、User Agentを指定することができます。
+    - [User-agent](https://developer.mozilla.org/ja/docs/Web/HTTP/Headers/User-Agent)
+      - User-agentの情報によってアクセスを禁止するなどレスポンスが変わるサイトもあります
+      - Pythonの requests などでも、User Agentを指定することができます。
+        ```
+        header = {'user-agent': m-app}
+        response = requests.get('https://tokyo.pyladies.com/',headers=header)
+        ```
 
   - 「Disallow」は、クローラーのアクセスを制御するファイルを指定するものです。Disallowで指定されたファイルやディレクトリはアクセスが禁止されています。
     - 以下のように記載されている場合は、このディレクトリ配下はアクセス禁止です
