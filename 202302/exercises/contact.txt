@@ -1,0 +1,124 @@
+Amsterdam, the Netherlands: amsterdam@pyladies.com
+Ankara, Turkey: ankara@pyladies.com
+Antananarivo, MDG: tnr@pyladies.com
+Aracati, Brazil: aracati@pyladies.com
+Arequipa, Peru: aqp@pyladies.com
+Atlanta, GA: atl@pyladies.com
+Austin, TX: atx@pyladies.com
+Australia: australia@pyladies.com
+Bangalore, India: pyblr@pyladies.com
+Bauchi, NG: bauchi@pyladies.com
+Belem, Brazil: belem@pyladies.com
+Belo Horizonte, Brazil: bh@pyladies.com
+Berlin, Germany: berlin@pyladies.com
+Bhubaneswar, India: bbsr@pyladies.com
+Blumenau, Brazil: blumenau@pyladies.com
+Boulder, CO: boulder@pyladies.com
+Boston, MA: boston@pyladies.com
+Bratislava, Slovakia: bratislava@pyladies.org
+Brazil: brazil@pyladies.com
+Brisbane, Australia: brisbane@pyladies.com
+Brno, Czech Republic: brno@pyladies.com
+Campinas, Brazil: campinas@pyladies.com
+Canakkale, Turkey: tr@pyladies.com
+Caxias do Sul, Brazil: caxiasdosul@pyladies.com
+CDMX, México: mx@pyladies.com
+Chennai, India: chn@pyladies.com
+Charleston, SC: charleston@pyladies.com
+Chicago, IL: chicago@pyladies.com
+Cleveland, OH: cle@pyladies.com
+Curitiba, Brazil: curitiba@pyladies.com
+Dallas, TX: dfw@pyladies.com
+Denver, CO: denver@pyladies.com
+DF - Distrito Federal, Brazil: df@pyladies.com
+Doboj, BiH: doboj@pyladies.com
+Dublin, Ireland: dublin@pyladies.com
+Duque de Caxias, RJ: duquedecaxias@pyladies.com
+Edinburgh, Scotland: edinburgh@pyladies.com
+Ethiopia, Addis Ababa: addisa@pyladies.com
+Ghana: ghana@pyladies.com
+Grand Rapids, MI: grandrapids@pyladies.com
+Gujarat, India: gtu@pyladies.com
+Hamburg, Germany: hamburg@pyladies.com
+Helsinki, Finland: helsinki@pyladies.com
+Ho Chi Minh, Vietnam: hcmc@pyladies.com
+Hermosillo, México: hermosillo@pyladies.com
+Houston, TX: Houston.pyladies@gmail.com
+India: pyladies@openlabs.co.in
+Jos, plateau: plateau@pyladies.com
+Kampala, Uganda: kampala@pyladies.com
+Kazan, Russia: kzn@pyladies.com
+Kosice, Slovakia: kosice@pyladies.org
+Kyoto: メールアドレスはありません
+La Paz, Bolivia: lp@pyladies.com
+El Alto, Bolivia: elalto@pyladies.com
+Lisbon, Portugal: lisboa@pyladies.com
+London, UK: london@pyladies.com
+Los Angeles, CA: la@pyladies.com
+Mavs PyLadies: mavs@pyladies.com
+Maceio, Brazil: maceio@pyladies.com
+Manaus, Brazil: manaus@pyladies.com
+Miami, Florida: miami@pyladies.com
+Milan, Italy: milan@pyladies.com
+Melbourne, Australia: melbourne@pyladies.com
+Mohali: Mohali@pyladies.com
+Montreal, Canada: montreal@pyladies.com
+Morocco: MA@pyladies.com
+Mumbai, India: mum@pyladies.com
+Munich, Germany: munich@pyladies.com
+Southwest Florida, USA: swflorida@pyladies.com
+Nashville, TN: info@pyladies.com
+Natal, Brazil: brasil@pyladies.org
+Newark, DE: newarkde@pyladies.com
+New York, NY: nyc@pyladies.com
+Nigeria: nigeria@pyladies.com
+Ojere, NG: ojere@pyladies.com
+Okinawa, Japan: okinawa@pyladies.com
+Paraiba, Brazil: pb@pyladies.com
+Paris, France: paris@pyladies.com
+Poland: poland@pyladies.com
+Portland, OR: pyladies.pdx@gmail.com
+Porto Alegre, Brazil: pyladiespoa@openmailbox.org
+Pune, India: pune@pyladies.com
+Quito, Ecuador: quito@pyladies.com
+Raleigh-Durham, NC: rdu@pyladies.com
+Recife, Brazil: recife@pyladies.org
+Remote, Everywhere: remote@pyladies.com
+Rio de Janeiro, Brazil: brasil@pyladies.org
+Salt Lake Area, Utah: saltlake@pyladies.com
+Saint Petersburg, Russia: spb@pyladies.com
+Salvador, Brazil: salvador@pyladies.com
+San Diego, CA: juliet.oberding@gmail.com
+San Francisco, CA: sf@pyladies.com
+Santa Cruz, CA: santacruz@pyladies.com
+Sao Carlos, Brazil: saocarlos@pyladies.org
+São Luís, Brazil: saoluis@pyladies.org
+Seattle, WA: seattle@pyladies.com
+Seoul, Korea: seoul@pyladies.com
+Silicon Valley, CA: siliconvalley@pyladies.com
+Sorocaba, SP: sorocaba@pyladies.com
+Singapore: sg@pyladies.com
+Spain: spain@pyladies.com
+Madrid, Spain: madrid@pyladies.com
+Stockholm, Sweden: stockholm@pyladies.com
+Sul de Minas, Brazil: suldeminasgerais@pyladies.com
+Sydney, Australia: sydney@pyladies.com
+Taiwan: pyladies.tw@gmail.com
+Teresina, Brazil: teresina@pyladies.com
+Tirana, Albania: tirana@pyladies.com
+Tokyo: pyladies-tokyo@googlegroups.com
+Toronto, Canada: toronto@pyladies.com
+Tunis, Tunisia: tunis@pyladies.com
+PyLadies Uruguay: uy@pyladies.com
+Vale do Paraiba, Brazil: vale@pyladies.com
+Vancouver, Canada: vancouver@pyladies.com
+Vienna, Austria: vienna@pyladies.com
+Washington, DC: jackiekazil@pyladies.com
+Zaria, Kaduna: zaria@pyladies.com
+Nova Iguacu, RJ: rural@pyladies.com
+Monrovia, Liberia: monrovia@pyladies.com
+Imo, Nigeria: owerri@pyladies.com
+Barcelona, BCN: bcn@pyladies.com
+Asaba, Nigeria: asaba@pyladies.com
+Guatemala city, Guatemala: guatemalacity@pyladies.com
+Santiago, Chile: santiago@pyladies.com
